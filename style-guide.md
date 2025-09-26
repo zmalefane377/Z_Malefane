@@ -36,7 +36,7 @@ The in-page navigation box provides quick access to different sections of the pa
     top: 20px;               /* Distance from viewport top when sticky */
     width: 220px;            /* Fixed width for the navigation box */
     margin-bottom: 1.5em;    /* Space below the box */
-    background-color: #f8f8f8;
+    background-color: #F7E7CE;
     border: 1px solid #e0e0e0;
     padding: 15px;
     border-radius: 8px;
@@ -53,7 +53,7 @@ The in-page navigation box provides quick access to different sections of the pa
     margin-bottom: 12px;
     font-size: 1em;
     font-weight: bold;
-    color: #3d4449;
+    color: #FF00FF;
     border-bottom: 1px solid #e0e0e0;
     padding-bottom: 8px;
 }
