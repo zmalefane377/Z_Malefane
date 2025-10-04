@@ -21,6 +21,10 @@ The in-page navigation box provides quick access to different sections of the pa
     <ul id="nav-list-weekX">
         <li><a href="#introduction-weekX">Introduction</a></li>
         <li><a href="#process-documentation-weekX">Process Documentation</a></li>
+        <li><a href="#1.Setting up GitX">1.Setting up Git</a></li>
+        <li><a href="#2.Programming BasicsX">2.Programming Basics</a></li>
+        <li><a href="#3.Web and Git hub PagesX">3.Web and Git hub Pages</a></li>
+        <li><a href="4.Collaboration & PracticeX">4.Collaboration & Practice</a></li>
         <!-- Add more links as needed -->
     </ul>
 </div>
