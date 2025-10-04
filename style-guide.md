@@ -278,4 +278,4 @@ Ensure that the HTML structure for the navigation box (including the `<h4>` with
 
 ## Other Components
 
-- **[Placeholder for other component rules, e.g., Boxes, Lists]** 
+- **[Placeholder for other component rules, e.g., Boxes, Lists]** s
